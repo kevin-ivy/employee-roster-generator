@@ -32,7 +32,7 @@
   
   * Run "npm test"
   * Tests will run for the following classes: Employee, Manager, Engineer, and Intern
-  * Tests will ensure functionality for the following methods: getName(), getRole(), getId(), getEmail(), getGithub(), adn getSchool()
+  * Tests will ensure functionality for the following methods: getName(), getRole(), getId(), getEmail(), getGithub(), and getSchool()
 
   ## License
   Licensed under the MIT license.
