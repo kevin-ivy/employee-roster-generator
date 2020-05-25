@@ -1,5 +1,7 @@
   # Employee Roster Generator [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
   Rather than slaving over a hot spreadsheet, simply answer a few quick questions about your employees to generate a sleak, clean web document that displays the entered details.
+  
+  (Link to example video)[https://drive.google.com/file/d/1yVAwPhpKaT66_MPgBAVfFugGEuHdav75/view]
 
   ## Table of Contents
 
