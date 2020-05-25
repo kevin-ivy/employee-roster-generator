@@ -1,5 +1,5 @@
   # Employee Roster Generator 
-  [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)] [![HTML](https://img.shields.io/badge/-ES6-yellow)](https://shields.io/)  [![HTML](https://img.shields.io/badge/-Bootstrap-blueviolet)](https://shields.io/)  [![HTML](https://img.shields.io/badge/-Node-lightgrey)](https://shields.io/) 
+  [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://shields.io/) [![HTML](https://img.shields.io/badge/-ES6-yellow)](https://shields.io/)  [![HTML](https://img.shields.io/badge/-Bootstrap-blueviolet)](https://shields.io/)  [![HTML](https://img.shields.io/badge/-Node-lightgrey)](https://shields.io/) 
   
   Rather than slaving over a hot spreadsheet, simply answer a few quick questions about your employees to generate a sleak, clean web document that displays the entered details.
   
